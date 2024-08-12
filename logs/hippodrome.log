@@ -1,0 +1,24 @@
+2024-08-12 16:26:17.236 INFO Main: Start of the race. Number of participants: 7
+2024-08-12 16:30:57.669 INFO Main: Start of the race. Number of participants: 7
+2024-08-12 16:30:59.717 INFO Main: Start of the race. Number of participants: Elvis
+2024-08-12 16:31:52.136 INFO Main: Start of the race. Number of participants: 7
+2024-08-12 16:31:54.188 INFO Main: Start of the race. Number of participants: Yoda
+2024-08-12 16:37:28.194 INFO Main: Start of the race. Number of participants: 7
+2024-08-12 16:37:30.243 INFO Main: Start of the race. Number of participants: Shelby
+2024-08-12 16:40:06.004 ERROR Hippodrome: Horses list is null
+2024-08-12 16:44:05.310 DEBUG Hippodrome: Created Hippodrome with 7 horses
+2024-08-12 16:44:05.312 INFO Main: Start of the race. Number of participants: 7
+2024-08-12 16:44:07.356 INFO Main: Start of the race. Number of participants: Ranger
+2024-08-12 16:48:34.887 DEBUG Hippodrome: Created Hippodrome with 7 horses
+2024-08-12 16:48:34.889 INFO Main: Start of the race. Number of participants: 7
+2024-08-12 16:48:36.954 INFO Main: Start of the race. Number of participants: Yoda
+2024-08-12 16:51:40.709 DEBUG Horse: Created a Horse named ¨[Houdini] with speed[2.4]
+2024-08-12 16:51:40.712 DEBUG Horse: Created a Horse named ¨[Comanche] with speed[2.5]
+2024-08-12 16:51:40.712 DEBUG Horse: Created a Horse named ¨[Ranger] with speed[2.6]
+2024-08-12 16:51:40.712 DEBUG Horse: Created a Horse named ¨[Elvis] with speed[2.7]
+2024-08-12 16:51:40.712 DEBUG Horse: Created a Horse named ¨[Yoda] with speed[2.8]
+2024-08-12 16:51:40.712 DEBUG Horse: Created a Horse named ¨[Pegasus] with speed[2.9]
+2024-08-12 16:51:40.712 DEBUG Horse: Created a Horse named ¨[Shelby] with speed[3.0]
+2024-08-12 16:51:40.713 DEBUG Hippodrome: Created Hippodrome with 7 horses
+2024-08-12 16:51:40.713 INFO Main: Start of the race. Number of participants: 7
+2024-08-12 16:51:42.767 INFO Main: Start of the race. Number of participants: Pegasus
